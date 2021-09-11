@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.ncsu.csc216.service_wolf.model.command"},{"l":"edu.ncsu.csc216.service_wolf.view.ui"}]

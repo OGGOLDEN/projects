@@ -1,0 +1,6 @@
+edu.ncsu.csc216.service_wolf.model.command
+edu.ncsu.csc216.service_wolf.model.incident
+edu.ncsu.csc216.service_wolf.model.io
+edu.ncsu.csc216.service_wolf.model.manager
+edu.ncsu.csc216.service_wolf.model.service_group
+edu.ncsu.csc216.service_wolf.view.ui
