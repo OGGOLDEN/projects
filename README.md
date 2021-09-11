@@ -10,3 +10,7 @@ The program opens to a login screen. Only students, faculty, and registrars can 
 
 userID: testId
 Password: hunter2
+
+## Project1 (ServiceWolf)
+
+This Program
